@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{C4853577-D443-4A3E-81CD-E8586C693DA8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment3/Category.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment3/EmptyEnumeration.cs">
     <Files>
-      <File FileName="Assignment3/Program.cs" Line="41" Column="17" />
+      <File FileName="Assignment3/Program.cs" Line="54" Column="31" />
       <File FileName="../../Downloads/RAWDATA_E2018_Assignment3TestSuite-master/Assignment3TestSuite/Assignment3Tests.cs" Line="268" Column="9" />
       <File FileName="Assignment3/Request.cs" Line="8" Column="10" />
       <File FileName="Assignment3/Category.cs" Line="1" Column="1" />
+      <File FileName="Assignment3/EmptyEnumeration.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
