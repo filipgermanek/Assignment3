@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C4853577-D443-4A3E-81CD-E8586C693DA8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment3/Program.cs">
+    <Files>
+      <File FileName="Assignment3/Program.cs" Line="26" Column="26" />
+      <File FileName="../../Downloads/RAWDATA_E2018_Assignment3TestSuite-master/Assignment3TestSuite/Assignment3Tests.cs" Line="345" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assignment3 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -22,8 +22,7 @@ namespace Assignment3
             };
             Console.WriteLine("Server started ...");
             categories.ForEach((Category obj) => Console.WriteLine("category: " + obj.Cid + " " + obj.Name));
-
-            while (true)
+            while (true) 
             {
 
                 var client = server.AcceptTcpClient();

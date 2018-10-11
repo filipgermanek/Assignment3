@@ -1,0 +1,11 @@
+/Users/filipgermanek/Projects/Assignment3/Assignment3/bin/Debug/netcoreapp2.1/Assignment3.deps.json
+/Users/filipgermanek/Projects/Assignment3/Assignment3/bin/Debug/netcoreapp2.1/Assignment3.runtimeconfig.json
+/Users/filipgermanek/Projects/Assignment3/Assignment3/bin/Debug/netcoreapp2.1/Assignment3.runtimeconfig.dev.json
+/Users/filipgermanek/Projects/Assignment3/Assignment3/bin/Debug/netcoreapp2.1/Assignment3.dll
+/Users/filipgermanek/Projects/Assignment3/Assignment3/bin/Debug/netcoreapp2.1/Assignment3.pdb
+/Users/filipgermanek/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp2.1/Assignment3.csprojAssemblyReference.cache
+/Users/filipgermanek/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp2.1/Assignment3.csproj.CoreCompileInputs.cache
+/Users/filipgermanek/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp2.1/Assignment3.AssemblyInfoInputs.cache
+/Users/filipgermanek/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp2.1/Assignment3.AssemblyInfo.cs
+/Users/filipgermanek/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp2.1/Assignment3.dll
+/Users/filipgermanek/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp2.1/Assignment3.pdb
