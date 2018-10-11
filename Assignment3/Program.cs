@@ -30,12 +30,16 @@ namespace Assignment3
                 var strm = client.GetStream();
 
                 var buffer = new byte[client.ReceiveBufferSize];
-
+               
                 var readCnt = strm.Read(buffer, 0, buffer.Length);
 
                 var msg = Encoding.UTF8.GetString(buffer, 0, readCnt);
 
-                Console.WriteLine($"Message: {msg} Message end");
+                //creates an object which we can validate
+                Request request = Newtonsoft.Json.JsonConvert.DeserializeObject<Request>(msg);
+
+
+                Console.WriteLine($"Request: path: {request.Path} method:{request.Method} body:{request.Body} date:{request.Date}");
 
                 var payload = Encoding.UTF8.GetBytes(msg.ToUpper());
 
@@ -46,5 +50,9 @@ namespace Assignment3
                 client.Close();
             }
         }
+        static bool IsRequestValid(Request request) {
+            return false;
+        }
+
     }
 }

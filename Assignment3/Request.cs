@@ -8,7 +8,7 @@ namespace Assignment3
         }
         public string Method { get; set; }
         public string Path { get; set; }
-        public long Date { get; set; }
+        public string Date { get; set; }
         public Category Body { get; set; }
     }
 }

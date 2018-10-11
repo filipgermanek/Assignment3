@@ -729,13 +729,13 @@
       "projectName": "Assignment3",
       "projectPath": "/Users/filipgermanek/Projects/Assignment3/Assignment3/Assignment3.csproj",
       "packagesPath": "/Users/filipgermanek/.nuget/packages/",
-      "outputPath": "/Users/filipgermanek/Projects/Assignment3/Assignment3/obj",
+      "outputPath": "/Users/filipgermanek/Projects/Assignment3/Assignment3/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/filipgermanek/.config/NuGet/NuGet.Config"
+        "/Users/filipgermanek/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -757,15 +757,14 @@
     "frameworks": {
       "netcoreapp2.1": {
         "dependencies": {
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "[2.1.0, )",
+            "autoReferenced": true
+          },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "11.0.2"
-          },
-          "Microsoft.NETCore.App": {
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "2.1.0",
-            "autoReferenced": true
+            "version": "[11.0.2, )"
           }
         },
         "imports": [
